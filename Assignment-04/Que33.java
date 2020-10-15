@@ -25,7 +25,7 @@ class Que33{
 	public static  void main(String argc[])
 	{
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter beelean value:");
+		System.out.println("Enter boolean value:");
 		boolean var=sc.nextBoolean();
 		System.out.println("Enter salary");
 		double sal1=sc.nextDouble();
